@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.edgeprof/
+
+# 原始抓取分页数据（7MB，fetch.py 支持断点续抓）
+# 想连历史快照一起版本化就把下面这行删掉
+raw/
+
+.DS_Store
+Thumbs.db
